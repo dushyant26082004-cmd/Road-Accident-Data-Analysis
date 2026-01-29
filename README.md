@@ -6,4 +6,4 @@
  Analyzed casualties across multiple dimensions: vehicle type, road type, road surface, light conditions, and urban vs rural areas.
 ## Dataset Used
 - <a href="https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?gid=1319047066#gid=1319047066">Road Accident Data</a>
-- <a href="https://github.com/dushyant26082004-cmd/Road-Accident-Data-Analysis/blob/main/Road%20Accident%20Data%20Analysis.xlsx">Dataset</a>
+- <a href="https://github.com/dushyant26082004-cmd/Road-Accident-Data-Analysis/blob/main/Road%20Accident%20Data%20Analysis.xlsx">Dashboard analysis</a>
