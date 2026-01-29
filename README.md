@@ -7,3 +7,14 @@
 ## Dataset Used
 - <a href="https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?gid=1319047066#gid=1319047066">Road Accident Data</a>
 - <a href="https://github.com/dushyant26082004-cmd/Road-Accident-Data-Analysis/blob/main/Road%20Accident%20Data%20Analysis.xlsx">Dashboard analysis</a>
+## Questions(KPI's)
+What is the total number of casualties?
+How many fatal, serious, and slight casualties occurred?
+What percentage of total casualties are fatal accidents?
+How does the current year (CY) casualties compare to previous year (PY)?
+Which month recorded the highest number of accidents?
+Is there a seasonal trend in road accidents?
+Which vehicle type contributes to the highest casualties?
+Which road surface condition (dry, wet, snow/ice) is most dangerous?
+What percentage of accidents occur on wet roads?
+Many More
