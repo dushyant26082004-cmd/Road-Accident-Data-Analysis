@@ -8,14 +8,23 @@
 - <a href="https://github.com/dushyant26082004-cmd/Road-Accident-Data-Analysis/blob/main/Road%20Accident%20Data%20Analysis.xlsx">Dashboard analysis</a>
 ## Questions(KPI's)
 What is the total number of casualties?
+
 How many fatal, serious, and slight casualties occurred?
+
 What percentage of total casualties are fatal accidents?
+
 How does the current year (CY) casualties compare to previous year (PY)?
+
 Which month recorded the highest number of accidents?
+
 Is there a seasonal trend in road accidents?
+
 Which vehicle type contributes to the highest casualties?
+
 Which road surface condition (dry, wet, snow/ice) is most dangerous?
+
 What percentage of accidents occur on wet roads?
+
 Many More
 ## Dashboard
 <img width="1582" height="743" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/30e1af64-4002-43b0-a65b-1a5f1e8f481c" />
