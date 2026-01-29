@@ -1,4 +1,3 @@
-<img width="1582" height="743" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/4831db3f-7d72-4779-abb0-0eb945f36be8" /># Road-Accident-Data-Analysis
 ## Project Objectives
  Developed an interactive Road Accident Analysis Dashboard in Excel to analyze 300,000+ casualty records and identify key safety trends.
  Visualized Total, Fatal, Serious, and Slight casualties using KPI cards and donut charts for quick insights.
@@ -20,6 +19,7 @@ What percentage of accidents occur on wet roads?
 Many More
 ## Dashboard
 <img width="1582" height="743" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/30e1af64-4002-43b0-a65b-1a5f1e8f481c" />
+
 ## Project Insights 
 Single carriageways contribute the highest number of casualties, indicating a greater safety risk compared to dual carriageways and roundabouts.
 Urban areas report significantly higher casualties than rural areas, mainly due to traffic density and congestion.
@@ -29,6 +29,7 @@ Daylight conditions have more accidents than dark conditions, indicating higher 
 Month-wise trend analysis shows seasonal variation, with certain months recording consistently higher accident rates.
 Current year vs previous year comparison reveals fluctuation, highlighting the need for continuous monitoring and policy evaluation.
 Fatal casualties form a small percentage of total accidents, but their impact is critical and requires targeted safety measures.
+
 ## Final Conclusion
 The dashboard provides a holistic and data-driven view of road accident patterns, enabling stakeholders to identify high-risk conditions, locations, and vehicle categories.
 Insights suggest that infrastructure improvement on single carriageways, stricter urban traffic control, and vehicle-specific safety policies can significantly reduce casualties.
