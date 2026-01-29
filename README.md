@@ -1,2 +1,5 @@
 # Road-Accident-Data-Analysis
-Designed an interactive Excel dashboard to analyze 300K+ road accident casualty records using real-world structured data. Built dynamic KPIs to track Total, Fatal, Serious, and Slight casualties with year-over-year comparison. Analyzed casualties by vehicle type, road type, road surface, light conditions, and urban vs rural areas..
+Developed an interactive Road Accident Analysis Dashboard in Excel to analyze 300,000+ casualty records and identify key safety trends.
+Visualized Total, Fatal, Serious, and Slight casualties using KPI cards and donut charts for quick insights.
+Performed year-over-year and monthly trend analysis to compare current vs previous year accident patterns.
+Analyzed casualties across multiple dimensions: vehicle type, road type, road surface, light conditions, and urban vs rural areas.
